@@ -1,0 +1,5 @@
+nicegui
+gspread
+oauth2client
+pandas
+openpyxl
